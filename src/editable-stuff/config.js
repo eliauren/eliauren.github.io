@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Aurelien",
   middleName: "",
   lastName: "Cerveaux",
-  message: "Bordeaux 🇫🇷 🤩  30 years old 😁  Running 🏃  Boxing 🥊  IT Engineer 🖥  Video Games 🎮  Beer with friends 🍻🍺",
+  message: "Bordeaux 🇫🇷 🤩  31 years old 😁  Running 🏃  Boxing 🥊  IT Engineer 🖥  Video Games 🎮  Beer with friends 🍻🍺",
   icons: [
     {
       image: "fa-github",
