@@ -9,7 +9,7 @@ const mainBody = {
   firstName: "Aurelien",
   middleName: "",
   lastName: "Cerveaux",
-  message: "Bordeaux 🇫🇷 🤩  31 years old 😁  Running 🏃  Boxing 🥊  IT Engineer 🖥  Video Games 🎮  Beer with friends 🍻🍺",
+  message: "Bordeaux 🇫🇷 🤩  32 years old 😁  Running 🏃  Boxing 🥊  IT Engineer 🖥  Video Games 🎮  Beer with friends 🍻🍺",
   icons: [
     {
       image: "fa-github",
@@ -49,8 +49,9 @@ const skills = {
     { name: "SQL", value: 75 },
     { name: "C#", value: 80 },
     { name: ".NET", value: 85 },
-    { name: "AWS", value: 60 },
-    { name: "Talend", value: 60 },
+    { name: "AWS", value: 70 },
+    { name: "Terraform", value: 60 },
+    { name: "Talend", value: 50 },
     { name: "SQL Server", value: 80 },
     { name: "MongoDB", value: 60 },
   ],
@@ -152,7 +153,7 @@ const interests = {
     {
       image: require('../assets/img/interests/sports.png'),
       title: "Sports",
-      description: "I've been practicing Boxing (ThaiBoxing and Savate French Boxing) for 12 years. Sport is a real passion for me and I also like Running and Soccer on my free time."
+      description: "I've been practicing Boxing (ThaiBoxing and Savate French Boxing) for 13 years. Sport is a real passion for me and I also like Running and Soccer on my free time."
     },
     {
       image: require('../assets/img/interests/technologies.png'),
