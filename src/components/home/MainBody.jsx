@@ -1,8 +1,8 @@
-import React from "react";
-import Typist from "react-typist";
-import Container from "react-bootstrap/Container";
-import Jumbotron from "react-bootstrap/Jumbotron";
-import bgimage from "../../assets/img/background.png";
+import React from "react"
+import Typist from "react-typist"
+import Container from "react-bootstrap/Container"
+import Jumbotron from "react-bootstrap/Jumbotron"
+import bgimage from "../../assets/img/background.png"
 
 const MainBody = React.forwardRef(
   ({ gradient, title, message, icons }, ref) => {
@@ -12,7 +12,7 @@ const MainBody = React.forwardRef(
         id="home"
         style={{
           backgroundSize: "cover",
-          backgroundImage: `url(${bgimage})`
+          backgroundImage: `url(${bgimage})`,
         }}
         className="title bg-transparent bgstyle text-light min-vh-100 d-flex align-content-center align-items-center flex-wrap m-0"
       >
@@ -49,8 +49,8 @@ const MainBody = React.forwardRef(
           </a>
         </Container>
       </Jumbotron>
-    );
+    )
   }
-);
+)
 
-export default MainBody;
+export default MainBody
