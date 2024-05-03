@@ -1,7 +1,7 @@
 {
   "name": "eliauren-resume",
   "description": "A personal static website/portfolio template hosted in AWS, built to showcase my profile",
-  "homepage": "http://localhost:3000",
+  "homepage": "https://eliauren.github.io/resume/",
   "version": "2.0.0",
   "private": true,
   "author": {
